@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gwak Sang Yoon</h1>
 - 📫 How to reach me **henne0809@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
