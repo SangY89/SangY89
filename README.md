@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gwak Sang Yoon</h1>
+<h1 align="center">Hi 👋, I'm Gwak Sang Yun</h1>
 - 📫 How to reach me **henne0809@gmail.com**
 
 
