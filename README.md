@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gwak Sang Yun</h1>
+<p align="center">💻 Java & Python 백엔드 개발자 지망생</p>
 - 📫 How to reach me henne0809@gmail.com
 
 
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p
-  
+
 <h3 align="left">📂 Projects</h3>
 <table>
   <tr>
@@ -44,3 +45,9 @@
     </td>
   </tr>
 </table>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SangY89&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangY89&layout=compact&theme=default" />
+</p>
