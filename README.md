@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gwak Sang Yun</h1>
-- 📫 How to reach me **henne0809@gmail.com**
+- 📫 How to reach me henne0809@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
