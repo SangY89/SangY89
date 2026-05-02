@@ -17,7 +17,6 @@
 </p
   
 <h3 align="left">📂 Projects</h3>
-
 <table>
   <tr>
     <td align="center" width="500px" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px;">
@@ -31,6 +30,17 @@
       <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logoColor=white">
       <br/><br/>
       <a href="https://github.com/SangY89/Spring-project">🔗 저장소 바로가기</a>
+    </td>
+    <td align="center" width="500px" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px;">
+      <img src="https://img.icons8.com/fluency/48/movie-projector.png" width="40"/><br/>
+      <b>Movie Review Site</b><br/>
+      <sub>Python Django 기반 영화 리뷰 사이트</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+      <br/><br/>
+      <a href="https://github.com/SangY89/Movie-review">🔗 저장소 바로가기</a>
     </td>
   </tr>
 </table>
