@@ -16,8 +16,21 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p
   
-<h3 align="left">Projects:</h3>
+<h3 align="left">📂 Projects</h3>
 
-<a href="https://github.com/SangY89/Spring-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangY89&repo=Spring-project&theme=default" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="500px" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px;">
+      <img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br/>
+      <b>greetingSP</b><br/>
+      <sub>Java Spring MVC 기반 구인구직 플랫폼</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white">
+      <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logoColor=white">
+      <br/><br/>
+      <a href="https://github.com/SangY89/Spring-project">🔗 저장소 바로가기</a>
+    </td>
+  </tr>
+</table>
