@@ -48,6 +48,6 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangY89&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangY89&layout=compact&theme=default" />
+  <img src="https://readme-stats-eight-zeta.vercel.app/api?username=SangY89&show_icons=true&theme=default" />
+  <img src="https://readme-stats-eight-zeta.vercel.app/api/top-langs/?username=SangY89&layout=compact&theme=default" />
 </p>
