@@ -47,7 +47,17 @@
 </table>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://readme-stats-eight-zeta.vercel.app/api?username=SangY89&show_icons=true&theme=default" />
-  <img src="https://readme-stats-eight-zeta.vercel.app/api/top-langs/?username=SangY89&layout=compact&theme=default" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Total Commits</b><br/>
+      <img src="https://img.shields.io/badge/Commits-16-brightgreen?style=flat-square&logo=github">
+    </td>
+    <td align="center">
+      <b>Top Languages</b><br/>
+      <img src="https://img.shields.io/badge/Java-주요언어-007396?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-2위-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-3위-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </td>
+  </tr>
+</table>
